@@ -1,8 +1,10 @@
-# 🏰 Castles Game
+# 🏰 Castles
 
 A logic game where you must place castles on a board following specific rules. Test your strategy skills!
 
-This is a copy of the original LinkedIn's game [Queens](https://www.linkedin.com/games/queens/)
+#### [Check out the game here!](https://sergiolms.github.io/castles/)
+
+<sub>_This is a copy of the original LinkedIn's game [Queens](https://www.linkedin.com/games/queens/)_</sub>
 
 ## 🎮 How to Play
 
